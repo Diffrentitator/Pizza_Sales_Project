@@ -4,7 +4,6 @@ Analysing Pizza Sales using SQL and Power BI
   <img src="images/pizza_banner.jpg" alt="Pizza Restaurant Banner" width="800"/>
 </p>
 
-# 🍕 Pizza Sales Dashboard & SQL Analysis
 
 This project analyzes **pizza sales data** to uncover key business insights using **SQL** for querying and **Power BI** for visualization. The dashboard offers a comprehensive view of sales performance across different dimensions like pizza categories, slice types, weekdays/months, and total revenue.
 
