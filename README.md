@@ -1,7 +1,7 @@
 # Pizza_Sales_Project
 Analysing Pizza Sales using SQL and Power BI
 <p align="center">
-  <img src="images/pizza_banner.jpg" alt="Pizza Restaurant Banner" width="800"/>
+  <img src="images/Pizza Restaurant.jpg" alt="Pizza Restaurant Banner" width="800"/>
 </p>
 
 
