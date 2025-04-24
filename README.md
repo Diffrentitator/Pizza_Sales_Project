@@ -83,7 +83,8 @@ You can find the full SQL script in the `Pizza_Sales_query.sql` file included in
 ## 📷 Dashboard Screenshots
 
 ### 🔸 Dashboard Overview
-![Dashboard Overview](images/dashboard_overview.png)
+![image](https://github.com/user-attachments/assets/abe9bf1a-36e6-4ea6-a6d0-da301a600995)
+
 
 ### 🔸 Sales by Pizza Category
 ![image](https://github.com/user-attachments/assets/32615425-746a-4350-9bf9-3ae1fc97995c)
