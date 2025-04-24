@@ -1,6 +1,7 @@
 # Pizza_Sales_Project
 Analysing Pizza Sales using SQL and Power BI
-https://github.com/Diffrentitator/Pizza_Sales_Project/commit/cf3f0c2f24c113ce5f3558e400a198453d788c52
+![Pizza Restaurant Banner](images/Pizza%20Restaurant.jpg)
+
 
 
 This project analyzes **pizza sales data** to uncover key business insights using **SQL** for querying and **Power BI** for visualization. The dashboard offers a comprehensive view of sales performance across different dimensions like pizza categories, slice types, weekdays/months, and total revenue.
