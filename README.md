@@ -1,6 +1,7 @@
 # Pizza_Sales_Project
 Analysing Pizza Sales using SQL and Power BI
-![Pizza Restaurant Banner](images/Pizza%20Restaurant.jpg)
+
+![image](https://github.com/user-attachments/assets/ad3d97c7-72ed-46db-991b-6e38d27c350d)
 
 
 
